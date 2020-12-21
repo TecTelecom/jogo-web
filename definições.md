@@ -28,5 +28,5 @@ e com um desfecho de acordo com as decisões tomada pela pessoa.
 
 # O começo de Tudo 
 
->
+Você é convocado de forma obrigatória a lutar pelo seu país, e neste caso fugir ou desistir não é opção. O primeiro dilema a ser enfrentado é o de deixar sua família. 
 
