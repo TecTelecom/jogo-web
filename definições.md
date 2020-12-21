@@ -4,6 +4,8 @@
 
 > * Monitoramento e conectividade inteligente [Link](https://www.altave.com.br/)
 
+> * Terceira guerra mundial [?](https://istoe.com.br/o-mundo-em-convulsao/) 
+
 # Contexto Histórico
 
 > Terceira Guerra Mundial acontecendo, e nações estam disputando pelo controle de armas químicas e você é convocado a lutar pelo seu país. Mas, e se
