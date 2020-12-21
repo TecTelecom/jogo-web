@@ -22,9 +22,9 @@ e com um desfecho de acordo com as decisões tomada pela pessoa.
 
 # Sobre os artefatos 
 
-> * Mochila militar, com vários artefatos de batalha.
-  * Capacete 
-> * Objetos do IFSC
+> * Mochila militar, com vários artefatos de batalha;
+> * Capacete;
+> * Objetos do IFSC;
 
 # O começo de Tudo 
 
