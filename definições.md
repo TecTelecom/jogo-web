@@ -9,7 +9,7 @@
 # Contexto Histórico
 
 > Após a pandemia do covid-19, um novo problema mundial surge, e agora não mais de forma invisível como um vírus e sim de maneira política e social. Nações ficaram debilitadas 
-pela gravidade da pandemia, e reinvidicavam ações sociais que os ajudassem a saírem dessa situação. Por estarem sendo deixados de lados, os países não desenvolvidos e subdesenvolvidos se reunem contra a elita, e isso desencadeou a terceira guerra mundial. 
+pela gravidade da pandemia, e reinvidicavam ações sociais que os ajudassem a saírem dessa situação. Por estarem sendo deixados de lado, os países não desenvolvidos e subdesenvolvidos se reunem contra a elita, e isso desencadeou a terceira guerra mundial. 
 > 
 
 # Sobre o Cenário
