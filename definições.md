@@ -14,7 +14,7 @@ para isso, sua família for exposta ao perigo? Escolhas deverão ser tomadas, pe
 
 # Sobre os Personagens 
 
-> Com o intuito de instigar o jogador, o personagem principal será o próprio leitor, com seus instintos e habilidades irá enfrentar o processo desse jogo de forma perculiar
+> Com o intuito de instigar o jogador, o personagem principal será o próprio leitor, com seus instintos e habilidades irá enfrentar o processo desse jogo de forma peculiar
 e com um desfecho de acordo com as decisões tomada pela pessoa.
 
 # Sobre os artefatos 
