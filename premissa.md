@@ -1,4 +1,4 @@
-# Premissa #1
+# Premissa 
 
 Quem diria que para uma nação conseguir os direitos básicos fosse necessário instigar uma guerra! 
 
