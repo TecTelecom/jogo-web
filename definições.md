@@ -1,7 +1,8 @@
 # Referências
 
-> Filme [Invencível](https://www.youtube.com/watch?v=87JBXvcQ6aA)
-> Monitoramento e conectividade inteligente [Link](https://www.altave.com.br/)
+> * Filme [Invencível](https://www.youtube.com/watch?v=87JBXvcQ6aA)
+
+> * Monitoramento e conectividade inteligente [Link](https://www.altave.com.br/)
 
 # Contexto Histórico
 
