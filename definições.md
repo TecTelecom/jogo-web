@@ -8,13 +8,12 @@
 
 # Contexto Histórico
 
-> Terceira Guerra Mundial acontecendo, e nações estam disputando pelo controle de armas químicas e você é convocado a lutar pelo seu país. Mas, e se
-para isso, sua família for exposta ao perigo? Escolhas deverão ser tomadas, perigos serão enfrentados e um único objetivo, salvar sua família.
+> 
 > 
 
 # Sobre o Cenário
 
-> Suas família fica presa em uma escola, mas precisamento no IFSC de são josé....
+> IFSC de São José - SC
 
 # Sobre os Personagens 
 
@@ -23,7 +22,9 @@ e com um desfecho de acordo com as decisões tomada pela pessoa.
 
 # Sobre os artefatos 
 
-> Estamos definindo
+> * Mochila militar, com vários artefatos de batalha.
+  * Capacete 
+> * Objetos do IFSC
 
 # O começo de Tudo 
 
