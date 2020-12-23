@@ -11,7 +11,7 @@
  
  # Twine
  
- Coleção de tutorias: 
+ Coleção de tutoriais: 
  
  * https://www.reddit.com/r/twinegames/comments/au74yc/collection_of_tutorials_ive_found_useful_while/
  
