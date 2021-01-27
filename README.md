@@ -15,10 +15,10 @@
 
 ## Ícones:
 
-- 📦 Nova funcionalidade
-- 🆙 Atualização
-- 🐛 Correção de bug
-- 🏁 Release
+- :package: Nova funcionalidade
+- :up: Atualização
+- :bug: Correção de bug
+- :checkered_flag: Release
 
  # Twine
  
