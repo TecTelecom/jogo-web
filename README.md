@@ -1,14 +1,25 @@
-# jogo-web
+# Jogo-Web
 
 > Sétima Fase do Integrado de Telecomunicações - 2020/2 - IFSC
 >
 > Disciplina de Cabeamento estruturado e Redes Telefônicas 
  
- # Projeto
+# Projeto
  
  > Criar um jogo baseado em texto, que introduza os conceitos da disciplina em questão.
  > * Grupo: Beatriz e Yasmin
  
+## Tarefas:
+
+- O controle das tarefas desse projeto será realizado no GitHub.
+
+## Ícones:
+
+- 📦 Nova funcionalidade
+- 🆙 Atualização
+- 🐛 Correção de bug
+- 🏁 Release
+
  # Twine
  
  Coleção de tutoriais: 
