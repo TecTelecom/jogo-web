@@ -1,5 +1,5 @@
 # Premissa 
 
-Quem diria que para uma nação conseguir os direitos básicos fosse necessário instigar uma guerra! 
+O que será que uma mansão com aparência abandona pode guardar e quais as consequências da descoberta dos secredos que ali estão guardados? 
 
-Infelizmente isso acontece. Inicia-se então a terceira guerra mundial, nações contra nações disputando o controle do poder econômico. E você é convocado a lutar pelos direitos do seu país. Mas, e se para isso, sua família for exposta ao perigo? Escolhas deverão ser tomadas, perigos serão enfrentados e o desfecho dessa trama dependerá de você.
+Após passar a noite em uma mansão sinistra, um grupo de amigos decide explorar a casa e o que descobrem é inimaginável. Após muitas explicações, o dono da casa -um senhor sinistro- pede ajuda dos amigos para conseguir recuperar algo muito importante para que maiores problemas não aconteçam. 
