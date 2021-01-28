@@ -1,33 +1,33 @@
 # Referências
 
-> * Filme [Invencível](https://www.youtube.com/watch?v=87JBXvcQ6aA)
+> * Filme "Chernobyl Diaries"  
 
-> * Monitoramento e conectividade inteligente [Link](https://www.altave.com.br/)
+> * 
 
-> * Terceira guerra mundial [?](https://istoe.com.br/o-mundo-em-convulsao/) 
+> * 
 
 # Contexto Histórico
 
-> Após a pandemia do covid-19, um novo problema mundial surge, e agora não mais de forma invisível como um vírus e sim de maneira política e social. Nações ficaram debilitadas 
-pela gravidade da pandemia, e reinvidicavam ações sociais que os ajudassem a saírem dessa situação. Por estarem sendo deixados de lado, os países não desenvolvidos e subdesenvolvidos se reunem contra a elita, e isso desencadeou a terceira guerra mundial. 
+> No ano de 2021, um grupo de amigos acaba de se forma na faculdade e para comemorar decidem ir acampar, durante a viagem o carro estraga e os problemas começam.
 > 
 
 # Sobre o Cenário
 
-> IFSC de São José - SC
+> IFSC de São José - SC vai se tornar uma mansão com uma aparência abandonada.
 
 # Sobre os Personagens 
 
-> Com o intuito de instigar o jogador, o personagem principal será o próprio leitor, com seus instintos e habilidades irá enfrentar o processo desse jogo de forma peculiar
-e com um desfecho de acordo com as decisões tomada pela pessoa.
+> Durante o game, o jogador vai se alternar entre cinco personagens que se encaixam em cada fase do jogo.
 
 # Sobre os artefatos 
 
-> * Mochila militar, com vários artefatos de batalha;
-> * Capacete;
-> * Objetos do IFSC;
+> * Armas;
+> * ;
+> * ;
 
 # O começo de Tudo 
 
-Você é convocado de forma obrigatória a lutar pelo seu país, e neste caso fugir ou desistir não é opção. O primeiro dilema a ser enfrentado é o de deixar sua família. O segundo é o de encarar uma guerra.
+> Um grupo de amigos decidi fazer uma viajem para um acampamento para comemorar a formatura, no caminho acontece uma tempestade que faz com que o pneu do carro fure. Sem um estepe para concertar o carro, os amigos percebem que estão em um lugar muito escuro e que não conseguiram passar a noite ali, então olham ao redor e percebem uma mansão com aparência abandonada e decidem ir até lá. 
+> Chegando lá, bateram na porta e um senhor muito estranho os atende, explicando a situção o velho deixa o grupo passar a noite lá. Logo de manhã decidem vasculhar a casa e descobrem algo inimaginável.
+
 
