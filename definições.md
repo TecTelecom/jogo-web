@@ -8,7 +8,7 @@
 
 # Contexto Histórico
 
-> No ano de 2021, um grupo de amigos acaba de se forma na faculdade e para comemorar decidem ir acampar, durante a viagem o carro estraga e os problemas começam.
+> No ano de 2021, um grupo de amigos acaba de se forma na faculdade e para comemorar decidem ir acampar, durante a viagem o carro estraga e o que parecia um problemas comum, torna-se uma saga para salvar um universo.
 > 
 
 # Sobre o Cenário
@@ -21,9 +21,8 @@
 
 # Sobre os artefatos 
 
-> * Armas;
-> * ;
-> * ;
+> * Mochila;
+> * Objetos que se encontram na mansão;
 
 # O começo de Tudo 
 
