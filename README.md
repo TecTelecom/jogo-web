@@ -9,6 +9,11 @@
  > Criar um jogo baseado em texto, que introduza os conceitos da disciplina em questão.
  > * Grupo: Beatriz e Yasmin
  
+## GitPages:
+
+ * Link do Jogo-Web pelo repositório do github pages:
+
+  * https://gameif.github.io/jogo-web/ 
 ## Tarefas:
 
 - O controle das tarefas desse projeto será realizado no GitHub.

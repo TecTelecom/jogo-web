@@ -4,7 +4,6 @@
 
 > * Filme "Jumanji"
 
-> * 
 
 # Contexto Histórico
 
